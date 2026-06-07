@@ -1,0 +1,38 @@
+body{
+    background: #00d4ff;
+    background: linear-gradient(90deg, rgba(0, 212, 255, 1) 0%, rgba(0, 123, 148, 1) 35%, rgba(4, 36, 36, 1) 100%);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-family: "Elms Sans", sans-serif;
+    font-size: 50px;
+    color: orangered;
+}
+
+.campoValores{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    margin-top: 120px;
+}
+
+label{
+color: blue;
+ font-family: "Elms Sans", sans-serif;
+ 
+
+}
+
+input{
+    width: 310px;
+    padding: 10px;
+    border-radius: 30px;
+    
+}
+
